@@ -1,0 +1,23 @@
+h1 {
+	color : blue;
+	font-family :arial	;
+}
+
+h2 {
+	color : green;
+	text-indent: 1%;
+}
+
+h3 {
+	color : yellow;
+	text-indent: 2%;
+}
+
+h4 {
+	color :powderblue;
+	text-indent: 3%;
+}
+
+p {
+	padding-left: 60px;
+}
