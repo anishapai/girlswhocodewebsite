@@ -3,9 +3,10 @@ h1 {
 	font-family :arial	;
 }
 
-h2 {
+#all {
 	color : green;
 	text-indent: 1%;
+	display: none;
 }
 
 h3 {
