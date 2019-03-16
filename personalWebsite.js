@@ -1,3 +1,3 @@
 function clickButton() {
-	document.getElementById('all').style.display = "none";
+	document.getElementById('all').style.display = "block";
 }
