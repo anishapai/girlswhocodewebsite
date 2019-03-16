@@ -4,9 +4,9 @@ h1 {
 }
 
 #all {
-	color : green;
+	
+	display: none;
 	text-indent: 1%;
-	display: block;
 }
 
 h3 {
