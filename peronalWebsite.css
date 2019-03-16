@@ -6,7 +6,7 @@ h1 {
 #all {
 	color : green;
 	text-indent: 1%;
-	display: none;
+	display: block;
 }
 
 h3 {
